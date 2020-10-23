@@ -13,4 +13,4 @@ function fizzBuzz(words = ["Fizz", "Buzz"], length = 100) {
     }
 }
 
-fizzBuzz()
+fizzBuzz(["Fizz", "Buzz", "Bazz"], 1000)

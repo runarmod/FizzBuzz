@@ -9,4 +9,4 @@ def fizzBuzz(words = ["Fizz", "Buzz"], length = 100):
             output = i
         print(output)
 
-fizzBuzz()
+fizzBuzz(["Fizz", "Buzz", "Bazz"], 1000)
